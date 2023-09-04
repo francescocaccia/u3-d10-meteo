@@ -1,0 +1,17 @@
+body {
+    background-color: #4a6884;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+
+.form {
+    display: flex;
+}
+
+/* Stili per l'interfaccia Meteo */
+
+.listMeteo {
+    background: rgba(255, 255, 255, 0.158);
+    backdrop-filter: blur(10px);
+}
